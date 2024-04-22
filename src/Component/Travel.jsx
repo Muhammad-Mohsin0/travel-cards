@@ -1,3 +1,4 @@
+import imgCap from "../assets/cape.jpg"
 const travelData =[
     {
         key: "0",
@@ -26,22 +27,22 @@ const travelData =[
         Location:"https://www.google.com/maps/place/Fairy+Meadows/@35.3843508,74.5348967,13z/data=!3m1!4b1!4m6!3m5!1s0x38e6ecc4acc8c687:0x6e151bcebb07d81d!8m2!3d35.3873191!4d74.5785485!16s%2Fm%2F0119rz2d!5m1!1e4?entry=ttu",
         Placename:"Fairy Meadows National Park",
         Visitdate:"05 July,2024 - 10 July,2024",
-        About:"Fairy Meadows named by German climbers (German Märchenwiese,fairy tale meadows and locally known as Joot, is an area of grassland near one of the base camp sites of Nanga Parbat, located in Diamer District in Gilgit-Baltistan region in Pakistan.",
+        About:"Fairy Meadows named by German climbers (German Märchenwiese,fairy tale meadows and locally known as Joot, is an area of grassland near one of the base camp sites of Nanga Parbat, located in Diamer District in Gilgit-Baltistan region in Pakistan lakes in Western .",
     },
 
     {
         key: "3",
-        Imagesource:"https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/023/660/large/52095ea1e2aa7f75e84852aec81e1a08/switzerland-lake-geneva-chateau-de-chillon-040518-az.jpg",
+        Imagesource:"https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_563,q_75,w_1000/v1/clients/lakegenevawi/2021_VG_Abbey_Springs_2021_NEW_094f86d7-c0e3-4045-940c-93ce5d254868.png",
         Country:"Switzerland",
         Location:"https://www.google.com/maps/place/Lake+Geneva,+WI+53147,+USA/@42.5817294,-88.4537225,14z/data=!4m15!1m8!3m7!1s0x880584e9f85c4509:0x9eb9a6efc12afe43!2sLake+Geneva,+WI+53147,+USA!3b1!8m2!3d42.5916836!4d-88.4334301!16zL20vMDExY2c5!3m5!1s0x880584e9f85c4509:0x9eb9a6efc12afe43!8m2!3d42.5916836!4d-88.4334301!16zL20vMDExY2c5!5m1!1e4?entry=ttu",
         Placename:"Lake Geneva",
         Visitdate:"05 August,2024 - 10 August,2024",
-        About:"Lake Geneva is a deep lake on the north side of the Alps, shared between Switzerland and France. It is one of the largest lakes in Western Europe and the largest on the course of the Rhône.",
+        About:"Lake Geneva is a deep lake on the north side of the Alps, shared between Switzerland and France. It is one of the largest lakes in Western Europe and the largest on the course of the Rhône.lakes in Western Europe and the largest on the course of the Rhône.",
     },
 
     {
         key: "4",
-        Imagesource:"https://www.travelcaffeine.com/wp-content/uploads/2017/05/louvre-museum-pyramid-night-angles-paris-france-bricker.jpg",
+        Imagesource:"https://www.thewholeworldisaplayground.com/wp-content/uploads/2022/12/How-to-Buy-Louvre-Tickets.jpg",
         Country:"Paris",
         Location:"https://www.google.com/maps/place/Louvre+Pyramid/@48.8606146,2.3350691,17z/data=!4m14!1m7!3m6!1s0x47e671d877937b0f:0xb975fcfa192f84d4!2sLouvre+Museum!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI!3m5!1s0x47e66e267a32d441:0xb0088e1f7c07f451!8m2!3d48.8610135!4d2.3358583!16zL20vMDk0bGxn!5m1!1e4?entry=ttu",
         Placename:"Louvre Museum's",
@@ -51,12 +52,12 @@ const travelData =[
 
     {
         key: "5",
-        Imagesource:"https://imageio.forbes.com/specials-images/imageserve/62186b3906d6e730ff949c9c/Camps-Bay-Cape-Town-Vibrant-Sunset-Twilight-South-Africa/960x0.jpg?format=jpg&width=1440",
+        Imagesource:[imgCap],
         Country:"South Africa",
         Location:"https://www.google.com/maps/place/Cape+Town,+South+Africa/@-33.9126408,17.9966226,9z/data=!4m15!1m8!3m7!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!2sCape+Town,+South+Africa!3b1!8m2!3d-33.922087!4d18.4231418!16zL20vMDF5ajI!3m5!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!8m2!3d-33.922087!4d18.4231418!16zL20vMDF5ajI!5m1!1e4?entry=ttu",
         Placename:"Cape Town",
         Visitdate:"05 April,2024 - 10 April,2024",
-        About:"Cape Town[a] is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa.[12] It is the country's second-largest city, after Johannesburg, and the largest in the Western Cape.",
+        About:"Cape Town[a] is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa.[12] It is the country's second-largest city, after Johannesburg, and the largest in the Western lakes in Western Europe and the largest Cape.",
     },
 ]
 
