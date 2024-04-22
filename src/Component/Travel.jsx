@@ -17,7 +17,7 @@ const travelData =[
         Location:"https://www.google.com/maps/place/Lake+Minnewanka/@51.2710218,-115.4238155,13.25z/data=!4m15!1m8!3m7!1s0x5370ca45910c4afd:0xcaafaebedaac9463!2sBanff,+AB,+Canada!3b1!8m2!3d51.1784304!4d-115.5707903!16zL20vMDFfNjB3!3m5!1s0x5370d2948efafecd:0x648548874b447ec6!8m2!3d51.2640686!4d-115.3745674!16zL20vMDNtaDV4!5m1!1e4?entry=ttu",
         Placename:"Banff, Alberta",
         Visitdate:"05 June,2024 - 10 June,2024",
-        About:"Banff is a town in Banff National Park, Alberta, Canada, in Alberta's Rockies .Banff is a resort town and one of Canada's most popular tourist destinations. Known for its mountainous surroundings and hot springs, it is a destination for outdoor sports and hiking, biking, scrambling and skiing.",
+        About:"Banff is a town in Banff National Park, Alberta, Canada, in Alberta's Rockies .Banff is a resort town and one of Canada's most popular tourist destinations. Known for its mountainous surroundings and hot springs, it is a destination for outdoor sports and hiking, biking,scrambling scrambling and skiing.",
     },
 
     {
@@ -27,7 +27,7 @@ const travelData =[
         Location:"https://www.google.com/maps/place/Fairy+Meadows/@35.3843508,74.5348967,13z/data=!3m1!4b1!4m6!3m5!1s0x38e6ecc4acc8c687:0x6e151bcebb07d81d!8m2!3d35.3873191!4d74.5785485!16s%2Fm%2F0119rz2d!5m1!1e4?entry=ttu",
         Placename:"Fairy Meadows National Park",
         Visitdate:"05 July,2024 - 10 July,2024",
-        About:"Fairy Meadows named by German climbers (German Märchenwiese,fairy tale meadows and locally known as Joot, is an area of grassland near one of the base camp sites of Nanga Parbat, located in Diamer District in Gilgit-Baltistan region in Pakistan lakes in Western .",
+        About:"Fairy Meadows named by German climbers (German Märchenwiese,fairy tale meadows and locally known as Joot, is an area of grassland near one of the base camp sites of Nanga Parbat, located in Diamer District in Gilgit-Baltistan region in Pakistan lakes  in Pakistan lakes in Western .",
     },
 
     {
@@ -37,7 +37,7 @@ const travelData =[
         Location:"https://www.google.com/maps/place/Lake+Geneva,+WI+53147,+USA/@42.5817294,-88.4537225,14z/data=!4m15!1m8!3m7!1s0x880584e9f85c4509:0x9eb9a6efc12afe43!2sLake+Geneva,+WI+53147,+USA!3b1!8m2!3d42.5916836!4d-88.4334301!16zL20vMDExY2c5!3m5!1s0x880584e9f85c4509:0x9eb9a6efc12afe43!8m2!3d42.5916836!4d-88.4334301!16zL20vMDExY2c5!5m1!1e4?entry=ttu",
         Placename:"Lake Geneva",
         Visitdate:"05 August,2024 - 10 August,2024",
-        About:"Lake Geneva is a deep lake on the north side of the Alps, shared between Switzerland and France. It is one of the largest lakes in Western Europe and the largest on the course of the Rhône.lakes in Western Europe and the largest on the course of the Rhône.",
+        About:"Lake Geneva is a deep lake on the north side of the Alps, shared between Switzerland and France. It is one of the largest lakes Western Europe and the  in Western Europe and the largest on the course of the Rhône.lakes in Western Europe and the largest on the course of the Rhône.",
     },
 
     {
@@ -47,12 +47,12 @@ const travelData =[
         Location:"https://www.google.com/maps/place/Louvre+Pyramid/@48.8606146,2.3350691,17z/data=!4m14!1m7!3m6!1s0x47e671d877937b0f:0xb975fcfa192f84d4!2sLouvre+Museum!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI!3m5!1s0x47e66e267a32d441:0xb0088e1f7c07f451!8m2!3d48.8610135!4d2.3358583!16zL20vMDk0bGxn!5m1!1e4?entry=ttu",
         Placename:"Louvre Museum's",
         Visitdate:"05 December,2024 - 10 December,2024",
-        About:" The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district or ward) and home to some of the most canonical works of Western art, including the Mona Lisa and the Venus de Milo.",
+        About:" The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district or ward) (district or ward) and home to some of the most canonical works of Western art, including the Mona Lisa and the Venus de Milo.",
     },
 
     {
         key: "5",
-        Imagesource:[imgCap],
+        Imagesource:"http://localhost:3000/static/media/cape.5e1d8f3ec92dfd23210c.jpg",
         Country:"South Africa",
         Location:"https://www.google.com/maps/place/Cape+Town,+South+Africa/@-33.9126408,17.9966226,9z/data=!4m15!1m8!3m7!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!2sCape+Town,+South+Africa!3b1!8m2!3d-33.922087!4d18.4231418!16zL20vMDF5ajI!3m5!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!8m2!3d-33.922087!4d18.4231418!16zL20vMDF5ajI!5m1!1e4?entry=ttu",
         Placename:"Cape Town",
