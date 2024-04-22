@@ -6,15 +6,16 @@ function Card({ destination }) {
   return (
 
     <div className="flex max-w-xl rounded shadow-lg m-4">
-        <div className="w-full">
+        <div className=" w-110">
           <img src={destination.Imagesource} alt={destination.Placename}/>
         </div>
         <div >
-          <p className="flex"><FaLocationDot color="oraqnge" />{destination.Country} <a href=""></a>
+          <p className="flex"><FaLocationDot size={20} color="orange" />{destination.Country}  <a href={destination.Location} target="_blank" className="ml-4 underline">View on Google map</a> <br />
           </p>
-          {destination.Placename}
+          <h1 className="text-2xl font-bold ">{destination.Placename}</h1>
+          
           <br />
-          <p className="flex">
+          <p >
           <strong>{destination.Visitdate}</strong>
           </p>
           <br />
