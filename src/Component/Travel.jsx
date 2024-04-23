@@ -1,4 +1,4 @@
-import imgCap from "../assets/cape.jpg"
+
 const travelData =[
     {
         key: "0",
