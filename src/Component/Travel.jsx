@@ -52,7 +52,7 @@ const travelData =[
 
     {
         key: "5",
-        Imagesource:"http://localhost:3000/static/media/cape.5e1d8f3ec92dfd23210c.jpg",
+        Imagesource:"https://www.micato.com/wp-content/uploads/2018/09/cape-town-1-2-1110x700.jpg",
         Country:"South Africa",
         Location:"https://www.google.com/maps/place/Cape+Town,+South+Africa/@-33.9126408,17.9966226,9z/data=!4m15!1m8!3m7!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!2sCape+Town,+South+Africa!3b1!8m2!3d-33.922087!4d18.4231418!16zL20vMDF5ajI!3m5!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!8m2!3d-33.922087!4d18.4231418!16zL20vMDF5ajI!5m1!1e4?entry=ttu",
         Placename:"Cape Town",

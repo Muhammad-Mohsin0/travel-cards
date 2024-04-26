@@ -7,8 +7,8 @@ function App() {
   return (
     <>
     <div className="flex justify-center">
-      <div className=" absolute flex flex-wrap rounded-xl text-black justify-center text-white w-[55%] bg-gray-100  mt-10 ">
-      <div className="  relative text-xl rounded-t-lg w-[100%] bg-red-500 text-white "><h1 className="flex justify-center h-10 mt-3"><GiWorld size={25}/> Book Your Next Trip</h1></div>
+      <div className=" absolute flex flex-wrap rounded-xl text-black justify-center text-white w-[55%] bg-gray-100 mt-6 mb-6">
+      <div className="  relative text-xl rounded-t-lg w-[100%] bg-red-500 text-white "><h1 className="flex justify-center font-bold h-10 mt-3"><GiWorld size={25} className="mr-2"/> Book Your Next Trip</h1></div>
       {travelData.map((destination) => (
       <div key={destination.key} className="">
       
